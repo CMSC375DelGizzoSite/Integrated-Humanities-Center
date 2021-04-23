@@ -106,3 +106,14 @@ nav li a:hover{
 	text-align: center;
 }
 
+.square{ 
+    max-width: 100%; 
+	max-height: 250px;
+    Background-color: #EF3F42; 
+}
+
+.humanities{
+	max-width: 100%;
+	max-height: 250px;
+	background-color: black;
+}
