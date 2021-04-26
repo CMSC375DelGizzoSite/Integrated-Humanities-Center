@@ -131,3 +131,7 @@ nav li a:hover{
     padding: 0.25rem 30px;
     background: #333;
 }
+
+.removeBullets {
+	list-style: none;
+}
