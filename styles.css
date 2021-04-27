@@ -1,5 +1,6 @@
 body {
 background-color: whitesmoke;
+overflow-x: hidden;
 }
 
 h1  {
@@ -42,7 +43,7 @@ nav ul{
 	max-height: auto;
 	background-color:#c33;
     position: relative;
-    margin: 0 -0.5em;
+    margin: 0 -0.7em;
     padding: 0.25rem 15px;
   	text-align: center;
 }
