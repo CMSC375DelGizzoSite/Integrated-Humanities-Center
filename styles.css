@@ -105,7 +105,7 @@ nav li a:hover{
 
 .center {
   margin: auto;
-  width: 70%;
+  width: 80%;
   border: 2px solid black;
   padding: 10px;
   text-align: center;
@@ -151,4 +151,25 @@ nav li a:hover{
 .toolcontainer img {
     width: 100%;
     height: auto;
+}
+
+.teachingcontainer {
+    width: 96%;
+    max-width: 1920px;
+    margin: 10px auto;
+    border: 2px solid black;
+    padding: 10px;
+    grid-gap: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.teachingcontainer img {
+    width: 100%;
+    height: auto;
+}
+
+.centerText{
+	text-align: center;
 }
