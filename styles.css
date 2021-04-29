@@ -173,3 +173,13 @@ nav li a:hover{
 .centerText{
 	text-align: center;
 }
+
+.bloomTaxonomyContainer img {
+    display: inline-block;
+}
+
+.bloomTaxonomyImage {
+    max-width: 50%;
+    height: auto;
+    max-height: 21em;
+}
