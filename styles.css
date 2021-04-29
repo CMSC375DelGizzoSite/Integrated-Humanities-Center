@@ -167,6 +167,7 @@ nav li a:hover{
 
 .teachingcontainer img {
     width: 100%;
+	min-width: 30%;
     height: auto;
 }
 
