@@ -136,8 +136,13 @@ nav li a:hover{
 	list-style: none;
 }
 
+.alignleft {
+    margin-left: 1.5em;
+    text-align: left;
+}
+
 .toolcontainer {
-    width: 96%;
+    width: 82.5%;
     max-width: 1920px;
     margin: 10px auto;
     border: 2px solid black;
@@ -175,12 +180,44 @@ nav li a:hover{
 	text-align: center;
 }
 
-.bloomTaxonomyContainer img {
+.pedagogyContainer img {
     display: inline-block;
 }
 
-.bloomTaxonomyImage {
+.pedagogyImage {
     max-width: 50%;
     height: auto;
     max-height: 21em;
+}
+
+.pedagogy6Image {
+    max-width: 93.7%;
+    height: auto;
+    max-height: 21em;
+}
+
+
+.pedagogy5Image {
+    max-width: 93.7%;
+    height: auto;
+    max-height: 25em;
+}
+
+
+.pedagogy1Image {
+    max-width: 25%;
+    height: auto;
+    max-height: 18em;
+}
+
+.toolImage {
+    max-width: 93.7%;
+    height: auto;
+    max-height: 18em;
+}
+
+.conferenceImage {
+    max-width: 93.7%;
+    height: auto;
+    max-height: 25em;
 }
